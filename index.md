@@ -1,5 +1,7 @@
-![DS4ALL Logo](/images/ds4all_logo.png)
+<!-- ![DS4ALL Logo](/images/ds4all_logo.png) -->
+<img src="/images/ds4all_logo.png" width="300" align="right">
+<br>
 
 # *Atlanta University Center Data Science Initiative*
+
 This is a test
-## This is a test
