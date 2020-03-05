@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="0; URL='https://docs.google.com/document/d/1_eVuwUe_Y-yOP6t8gXPqujn_1An0-L985EyfQ5MXIjA/edit#'" />
+<meta http-equiv="refresh" content="0; URL='https://drive.google.com/open?id=1_eVuwUe_Y-yOP6t8gXPqujn_1An0-L985EyfQ5MXIjA'" />
 
 DS4ALL Handbook and Operations Manual
 
