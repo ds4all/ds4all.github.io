@@ -54,8 +54,3 @@ DS4ALL is made possible by the support and generosity of multiple partners.
     </tr>
 </table>
 
-
-
-
-<!-- img src="images/consortium_logos_1085x400.png" width="600px" align="center" -->
-
