@@ -25,7 +25,7 @@ The course is python-based and is administered through jupyter notebooks.
 DS4ALL is made possible by the support and generosity of multiple partners.
 <br><br>
 
-<table style="border-spacing: 150px;border: 0px solid red;">
+<table style="border-spacing: 0px solid white;">
     <tr style="background:white;">
         <td><img src="images/UnitedHealthGroup_logo_800x400.png" width="200" align="center"></td>
         <td style="width:70px;"></td>
