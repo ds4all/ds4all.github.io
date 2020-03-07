@@ -25,7 +25,7 @@ The course is python-based and is administered through jupyter notebooks.
 DS4ALL is made possible by the support and generosity of multiple partners.
 <br><br>
 
-<table style="border: 0px solid red;">
+<table style="border: 0px solid white;" align="center">
     <tr style="background:white;" align="center">
         <td style="width:250px;"><img src="images/UnitedHealthGroup_logo_800x400.png" width="200" align="center"></td>
         <td style="width:250px;"><img src="images/microsoft_logo_1700x400.png" width="200" align="center"></td>
@@ -41,7 +41,7 @@ DS4ALL is made possible by the support and generosity of multiple partners.
 <br><br><br><br>
 
 
-<table>
+<table style="border: 0px solid white;" align="center">
     <tr style="background:white;" align="center">
         <td style="width:200px;border: 1px solid lightgrey;"><img src="images/clark_logo_530x400.png" width="120" align="center"></td>
         <td style="width:200px;border: 1px solid lightgrey;"><img src="images/aucc_logo_625x625.jpg" width="80" align="center"></td>
@@ -56,4 +56,6 @@ DS4ALL is made possible by the support and generosity of multiple partners.
 
 
 
+
+<!-- img src="images/consortium_logos_1085x400.png" width="600px" align="center" -->
 
