@@ -25,16 +25,14 @@ The course is python-based and is administered through jupyter notebooks.
 DS4ALL is made possible by the support and generosity of multiple partners.
 <br><br>
 
-<table style="border-spacing: 0px solid white;">
-    <tr style="background:white;">
-        <td><img src="images/UnitedHealthGroup_logo_800x400.png" width="200" align="center"></td>
-        <td style="width:70px;"></td>
-        <td><img src="images/microsoft_logo_1700x400.png" width="200" align="center"></td>
+<table style="border: 0px solid red;">
+    <tr style="background:white;" align="center">
+        <td style="width:250px;"><img src="images/UnitedHealthGroup_logo_800x400.png" width="200" align="center"></td>
+        <td style="width:250px;"><img src="images/microsoft_logo_1700x400.png" width="200" align="center"></td>
     </tr>
-    <tr style="background:white;">
-        <td><img src="images/google_logo_1180x400.png" width="200" align="center"></td>
-        <td style="width:70px;"></td>
-        <td><img src="images/berkeley_logo_1280x400.png" width="200" align="center"></td>
+    <tr style="background:white;" align="center">
+        <td style="width:250px;"><img src="images/google_logo_1180x400.png" width="200" align="center"></td>
+        <td style="width:250px;"><img src="images/berkeley_logo_1280x400.png" width="200" align="center"></td>
     </tr>
 </table>
 
@@ -43,8 +41,19 @@ DS4ALL is made possible by the support and generosity of multiple partners.
 <br><br><br><br>
 
 
+<table>
+    <tr style="background:white;" align="center">
+        <td style="width:200px;border: 1px solid lightgrey;"><img src="images/clark_logo_530x400.png" width="120" align="center"></td>
+        <td style="width:200px;border: 1px solid lightgrey;"><img src="images/aucc_logo_625x625.jpg" width="80" align="center"></td>
+        <td style="width:200px;border: 1px solid lightgrey;"><img src="images/morehouse_logo_970x180.png" width="200" align="center"></td>
+    </tr>
+    <tr style="background:white;" align="center">
+        <td style="width:200px;border: 1px solid lightgrey;"><img src="images/msm_logo_1374x300.png" width="150" align="center"></td>
+        <td style="width:200px;border: 1px solid lightgrey;"><img src="images/aucc_dsi_logo_1280x817.png" width="120" align="center"></td>
+        <td style="width:200px;border: 1px solid lightgrey;"><img src="images/spelman_logo_753x300.png" width="180" align="center"></td>
+    </tr>
+</table>
 
 
-<img src="images/consortium_logos_1085x400.png" width="600px" align="center">
 
 
