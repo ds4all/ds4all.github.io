@@ -28,12 +28,12 @@ DS4ALL is made possible by the support and generosity of multiple partners.
 <table style="border-spacing: 150px;border: 0px solid red;">
     <tr style="background:white;">
         <td><img src="images/UnitedHealthGroup_logo_800x400.png" width="200" align="center"></td>
-        <td style="width:70px;"><\td>
+        <td style="width:70px;"></td>
         <td><img src="images/microsoft_logo_1700x400.png" width="200" align="center"></td>
     </tr>
     <tr style="background:white;">
         <td><img src="images/google_logo_1180x400.png" width="200" align="center"></td>
-        <td style="width:70px;"><\td>
+        <td style="width:70px;"></td>
         <td><img src="images/berkeley_logo_1280x400.png" width="200" align="center"></td>
     </tr>
 </table>
