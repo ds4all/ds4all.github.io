@@ -1,56 +1,37 @@
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="images/favicon/favicon.ico">
-</head>
-<!-- ![DS4ALL Logo](/images/ds4all_logo_3100x1200.png) -->
-<img src="images/ds4all_logo_3100x1200.png" width="200" align="right">
-<br>
+## Welcome to GitHub Pages
 
+You can use the [editor on GitHub](https://github.com/ds4all/ds4all.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-# Data Science for All
-### *Atlanta University Center Data Science Initiative*
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-The Atlanta University Center (AUC) is comprised of 4 HBCUs: Spelman College, Morehouse College, Clark Atlanta University and The Morehouse School of Medicine.  DS4ALL is a common introductory data science course design with zero pre-requisites.
+### Markdown
 
-The overarching impetus for the course is the realization that, in an increasingly data-driven world, student competitiveness in the upcoming decades will require that every student, regardless of his or her chosen area of specialization, will need the capacity to 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-1. reason sensibly based on data
-2. make and interpret inferences using data
-3. understand the social and ethical implications of data
+```markdown
+Syntax highlighted code block
 
-The course is python-based and is administered through jupyter notebooks.
+# Header 1
+## Header 2
+### Header 3
 
-<img src="images/jupyter_logo_518x600.png" width="50" align="center">
+- Bulleted
+- List
 
-<br>
-DS4ALL is made possible by the support and generosity of multiple partners.
-<br><br>
+1. Numbered
+2. List
 
-<table style="border: 0px solid white;" align="center">
-    <tr style="background:white;" align="center">
-        <td style="width:250px;"><img src="images/UnitedHealthGroup_logo_800x400.png" width="200" align="center"></td>
-        <td style="width:250px;"><img src="images/microsoft_logo_1700x400.png" width="200" align="center"></td>
-    </tr>
-    <tr style="background:white;" align="center">
-        <td style="width:250px;"><img src="images/google_logo_1180x400.png" width="200" align="center"></td>
-        <td style="width:250px;"><img src="images/berkeley_logo_1280x400.png" width="200" align="center"></td>
-    </tr>
-</table>
+**Bold** and _Italic_ and `Code` text
 
+[Link](url) and ![Image](src)
+```
 
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-<br><br><br><br>
+### Jekyll Themes
 
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ds4all/ds4all.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-<table style="border: 0px solid white;" align="center">
-    <tr style="background:white;" align="center">
-        <td style="width:200px;border: 1px solid lightgrey;"><img src="images/clark_logo_530x400.png" width="120" align="center"></td>
-        <td style="width:200px;border: 1px solid lightgrey;"><img src="images/aucc_logo_625x625.jpg" width="80" align="center"></td>
-        <td style="width:200px;border: 1px solid lightgrey;"><img src="images/morehouse_logo_970x180.png" width="200" align="center"></td>
-    </tr>
-    <tr style="background:white;" align="center">
-        <td style="width:200px;border: 1px solid lightgrey;"><img src="images/msm_logo_1374x300.png" width="150" align="center"></td>
-        <td style="width:200px;border: 1px solid lightgrey;"><img src="images/aucc_dsi_logo_1280x817.png" width="120" align="center"></td>
-        <td style="width:200px;border: 1px solid lightgrey;"><img src="images/spelman_logo_753x300.png" width="180" align="center"></td>
-    </tr>
-</table>
+### Support or Contact
 
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
