@@ -1,4 +1,5 @@
 <head>
+  <meta name="robots" content="noindex">
   <link rel="shortcut icon" type="image/x-icon" href="images/favicon/favicon.ico">
 </head>
 <img src="/images/ds4all_logo_1200x1200.png" width="50" align="left">
