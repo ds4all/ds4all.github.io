@@ -4,16 +4,11 @@
 
 <div style="color:blue">
     
-## ds4all file index
+## Google sheet embedding test
 </div>
 
 ---
-**index.md** - This is the landing page for the ds4all website<br>
-**index.ipynb** - Jupyter notebook used to build and edit index.md
 
-**readme.md** - This file<br>
-**readme.ipynb** - Jupyter notebook used to build and edit readme.md
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqByMxGiyoHBVL5AJYLtrQ1C4yN19z3pDIlKKOoCFJ0f6Guufm-6-2ItOrcUG7ETDaM2D8wVONfADe/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-**handbook.md** - Markdown file that simply redirects to the Google Doc containing the ds4all Handbook
-
-**template.ipynb** - Template notebook: replicate to create notebooks used to manage .md pages (index.ipynb and readme.ipynb are instances of this notebook).
+---
