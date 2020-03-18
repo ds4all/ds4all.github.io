@@ -19,7 +19,7 @@ The overarching impetus for the course is the realization that, in an increasing
 
 The course is python-based and is administered through jupyter notebooks.
 <div align="center" style="font-family:arial;">
-    <a href="https://ds4all.aucenter.edu/lab"><font style="color:rgb(227, 125, 61);" size="5">AUC&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/jupyter_logo_518x600.png" width="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;Hub</font></a>
+    <a href="https://ds4all.aucenter.edu/lab"><font style="color:rgb(227, 125, 61);" size="5">DS4ALL&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/jupyter_logo_518x600.png" width="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;HUB</font></a>
 </div>
 
 <br>
