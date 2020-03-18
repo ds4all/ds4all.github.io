@@ -18,8 +18,9 @@ The overarching impetus for the course is the realization that, in an increasing
 3. understand the social and ethical implications of data
 
 The course is python-based and is administered through jupyter notebooks.
-
-<img src="images/jupyter_logo_518x600.png" width="50" align="center">
+<div align="center" style="font-family:arial;">
+    <a href="https://ds4all.aucenter.edu/lab"><font style="color:rgb(227, 125, 61);" size="5">AUC&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/jupyter_logo_518x600.png" width="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;Hub</font></a>
+</div>
 
 <br>
 DS4ALL is made possible by the support and generosity of multiple partners.
