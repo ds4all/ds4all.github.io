@@ -17,7 +17,15 @@ The overarching impetus for the course is the realization that, in an increasing
 2. make and interpret inferences using data
 3. understand the social and ethical implications of data
 
-The course is python-based and is administered through jupyter notebooks.
+The course is python-based and is administered through a Zoom Virtual Classroom.
+
+<div align="center" style="font-family:arial;">
+    <a href="https://spelman.zoom.us/j/227593650"><font style="color:rgb(73, 138, 247);" size="5"><img src="images/ZoomLogo_220x50.png" width="150" align="center">&nbsp;&nbsp;&nbsp;&nbsp;DS4ALL Virtual Classroom</font></a>
+</div>
+
+<br><br>
+Homework, labs, assignments and course contents are completed in Jupyter notebooks hosted on a JupyterHub Server.
+
 <div align="center" style="font-family:arial;">
     <a href="https://ds4all.aucenter.edu/lab"><font style="color:rgb(227, 125, 61);" size="5">DS4ALL&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/jupyter_logo_518x600.png" width="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;HUB</font></a>
 </div>
