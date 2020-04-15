@@ -9,7 +9,7 @@
 ## DS4All Course Materials
 
 
-### [Fall 2020]( http://34.74.121.42/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds4all%2FFa2020&urlpath=lab%2Ftree%2FFa2020%2F )
+### [Fall 2020]( http://34.74.121.42/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds4all%2FFa2020&urlpath=lab%2Ftree%2FFa2020%2Findex.ipynb )
 
 
 
