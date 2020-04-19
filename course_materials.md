@@ -1,9 +1,10 @@
-<img align="right" alt="DS4ALL Logo" src="images/ds4all_logo_3100x1200.png" style="width:155.00px; margin:10px; "/><br><p align="left" style='color:blue; font-family:"Cambria"; font-size:20pt; margin:0; line-height:0.0; padding-bottom:0; padding-top:0; text-align:left; page-break-after:avoid; font-weight:700; '>AUC <i>DS4ALL</i> Course Materials</p><br>
+<img align="right" alt="DS4ALL Logo" src="images/ds4all_logo_3100x1200.png" style="width:155.00px; margin:10px; "/><br>
+<p align="left" style='color:blue; font-family:"Cambria"; font-size:20pt; margin:0; line-height:0.0; padding-bottom:0; padding-top:0; text-align:left; page-break-after:avoid; font-weight:700; '>AUC <i>DS4ALL</i> Course Materials</p><br>
 
 
 
 ## **Fall 2020**
----
+
 <br>
 
 | ------- Lectures ------- | --------------------------------- Description ---------------------------- | Dev |
