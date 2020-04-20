@@ -21,7 +21,8 @@
 | [Lecture 07](https://drive.google.com/open?id=17kvy8m-8NBdyKQJClUqwndJc2yE8qpG8sex_rkMZCSA) | Math Operations on Data Structures | |
 | [Lecture 08](https://drive.google.com/open?id=1yp8tSBwXrzorp3i6yILP7ZIwC8tr69xcflvd4SP9vdk) | Statistical Studies | |
 | [Lecture 09](https://drive.google.com/open?id=1-mqjtjzkhmYnSG6fQljTyIWAZUzw1r15IHf93-L2pas) | Lecture x Description | |
-| [Lecture 10](link) | Statistical Studies | | [Lecture 11](https://drive.google.com/open?id=1HPTFVjPaQR7_B670PNIw9Wgwpj8_W0416Bwy8b4Xx9A) | Conducting Statistical Studies | |
+| [Lecture 10](link) | Statistical Studies | |
+| [Lecture 11](https://drive.google.com/open?id=1HPTFVjPaQR7_B670PNIw9Wgwpj8_W0416Bwy8b4Xx9A) | Conducting Statistical Studies | |
 
 <br>
 
