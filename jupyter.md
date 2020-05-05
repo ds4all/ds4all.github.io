@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="0; URL='http://34.74.121.42/lab'" />
+<meta http-equiv="refresh" content="0; URL='http://ds4all-jh.aucenter.edu/lab'" />
 
 
 <!-- meta http-equiv="refresh" content="0; URL='http://localhost:8888/lab'" / -->
