@@ -9,7 +9,7 @@
 # Data Science for All
 ### *Atlanta University Center Data Science Initiative*
 
-The Atlanta University Center (AUC) is comprised of 4 HBCUs: Spelman College, Morehouse College, Clark Atlanta University and The Morehouse School of Medicine.  DS4ALL is a common introductory data science course design with zero pre-requisites.
+The Atlanta University Center (AUC) is comprised of 4 HBCUs: Spelman College, Morehouse College, Clark Atlanta University and The Morehouse School of Medicine.  DS4ALL is a common introductory data science course designed with zero pre-requisites.
 
 The overarching impetus for the course is the realization that, in an increasingly data-driven world, student competitiveness in the upcoming decades will require that every student, regardless of his or her chosen area of specialization, will need the capacity to 
 
@@ -34,6 +34,7 @@ Homework, labs, assignments and course contents are completed in Jupyter noteboo
 DS4ALL is made possible by the support and generosity of multiple partners.
 <br><br>
 
+<div align="center">
 <table style="border: 0px solid white;" align="center">
     <tr style="background:white;" align="center">
         <td style="width:250px;"><img src="images/UnitedHealthGroup_logo_800x400.png" width="200" align="center"></td>
@@ -44,7 +45,7 @@ DS4ALL is made possible by the support and generosity of multiple partners.
         <td style="width:250px;"><img src="images/berkeley_logo_1280x400.png" width="200" align="center"></td>
     </tr>
 </table>
-
+</div>
 
 
 <br><br><br><br>
