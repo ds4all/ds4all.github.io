@@ -50,7 +50,7 @@ DS4ALL is made possible by the support and generosity of multiple partners.
 
 <br><br><br><br>
 
-
+<div align="center">
 <table style="border: 0px solid white;" align="center">
     <tr style="background:white;" align="center">
         <td style="width:200px;border: 1px solid lightgrey;"><img src="images/clark_logo_530x400.png" width="120" align="center"></td>
@@ -63,3 +63,4 @@ DS4ALL is made possible by the support and generosity of multiple partners.
         <td style="width:200px;border: 1px solid lightgrey;"><img src="images/spelman_logo_753x300.png" width="180" align="center"></td>
     </tr>
 </table>
+</div>
