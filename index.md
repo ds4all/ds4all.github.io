@@ -20,15 +20,49 @@ The overarching impetus for the course is the realization that, in an increasing
 The course is python-based and is administered through a Zoom Virtual Classroom.
 
 <div align="center" style="font-family:arial;">
-    <a href="https://spelman.zoom.us/j/227593650"><font style="color:rgb(73, 138, 247);" size="5"><img src="images/ZoomLogo_220x50.png" width="150" align="center">&nbsp;&nbsp;&nbsp;&nbsp;DS4ALL Virtual Classroom</font></a>
+    <!-- <a href="https://spelman.zoom.us/j/227593650"> -->
+    <a href="https://spelman.zoom.us/j/94016778484"><font style="color:rgb(73, 138, 247);" size="5"><img src="images/ZoomLogo_220x50.png" width="150" align="center">&nbsp;&nbsp;&nbsp;&nbsp;DS4ALL Virtual Classroom</font></a>
 </div>
 
 <br><br>
 Homework, labs, assignments and course contents are completed in Jupyter notebooks hosted on a JupyterHub Server.
 
 <div align="center" style="font-family:arial;">
-    <a href="https://ds4all.aucenter.edu/course_materials"><font style="color:rgb(227, 125, 61);" size="5">DS4ALL Course Materials</font></a>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/jupyter_logo_518x600.png" width="50" align="center">
+    <font style="color:rgb(227, 125, 61);" size="5">DS4ALL Course Materials</font>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/jupyter_logo_518x600.png" width="50" align="center">
+<br><br>  
 </div>
+
+<div>
+<table style="border: 0px solid lightgrey;" align="center">
+<!--  Template:  copy and paste for each new calendar year
+    <tr style="background:white;" align="center">
+        <td style="border: 1px solid lightgrey;"><a href="FaYYYY/course_materials.md"><font style="color:rgb(227, 125, 61);" size="3"><b><i></i></b></font></a></td>
+        <td style="border: 1px solid lightgrey;"><a href="SuYYYY/course_materials.md"><font style="color:rgb(227, 125, 61);" size="3"><b><i></i></b></font></a></td>
+        <td style="border: 1px solid lightgrey;"><a href="SpYYYY/course_materials.md"><font style="color:rgb(227, 125, 61);" size="3"><b><i>Spring YYYY</i></b></font></a></td>
+    </tr>
+-->
+<!--  Uncomment for Spring 2021
+    <tr style="background:white;" align="center">
+        <td style="border: 1px solid lightgrey;"><a href="Fa2021/course_materials.md"><font style="color:rgb(227, 125, 61);" size="3"><b><i></i></b></font></a></td>
+        <td style="border: 1px solid lightgrey;"><a href="Su2021/course_materials.md"><font style="color:rgb(227, 125, 61);" size="3"><b><i></i></b></font></a></td>
+        <td style="border: 1px solid lightgrey;"><a href="Sp2021/course_materials.md"><font style="color:rgb(227, 125, 61);" size="3"><b><i>Spring 2021</i></b></font></a></td>
+    </tr>
+-->
+    <tr style="background:white;" align="center">
+        <td style="border: 1px solid lightgrey;"><ax href="Fa2020/course_materials.md"><font style="color:rgb(200, 200, 200);" size="3"><b><i></i></b></font></ax></td>
+        <td style="border: 1px solid lightgrey;"><a href="Su2020/course_materials.md"><font style="color:rgb(227, 125, 61);" size="3"><b><i>Summer 2020</i></b></font></a></td>
+        <td style="border: 1px solid lightgrey;"><font style="color:rgb(200, 200, 200);" size="3"><b><i>Spring 2020</i></b></font></td>
+    </tr>
+    <tr style="background:white;" align="center">
+        <td style="width:200px;border: 0px solid lightgrey;"></td>
+        <td style="width:200px;border: 0px solid lightgrey;"></td>
+        <td style="width:200px;border: 0px solid lightgrey;"></td>
+    </tr>
+</table>
+</div>
+
+
+
 
 <br>
 DS4ALL is made possible by the support and generosity of multiple partners.

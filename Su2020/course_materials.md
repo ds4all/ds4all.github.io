@@ -1,8 +1,9 @@
-<a href="http://ds4all.aucenter.edu"><img src="images/ds4all_logo_3100x1200.png" width="120" align="right"></a>
-<p align="left" style='color:blue; font-family:"Cambria"; font-size:20pt; margin:0; line-height:1.0; padding-bottom:0; padding-top:0; text-align:left; page-break-after:avoid; font-weight:700; '>AUC <i>DS4ALL</i> Course Materials</p><br>
+<a href="http://ds4all.aucenter.edu"><img src="../images/ds4all_logo_3100x1200.png" width="120" align="right"></a>
+<p align="left" style='color:blue; font-family:"Cambria"; font-size:20pt; margin:0; line-height:1.0; padding-bottom:0; padding-top:0; text-align:left; page-break-after:avoid; font-weight:700; '>AUC <i>DS4ALL</i> Course Materials</p>
+<p align="left" style='color:black; font-family:"Cambria"; font-size:20pt; margin:0; line-height:1.0; padding-bottom:0; padding-top:0; text-align:left; page-break-after:avoid; font-weight:700; '><i>Summer 2020</i></p><br>
 <br>
 
-Test Your JupyterHub Connection [Here](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Course-Materials&urlpath=lab/tree/Course-Materials/lectures/hello.ipynb).
+Test Your JupyterHub Connection [Here](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Sp2020-Course-Materials&urlpath=lab/tree/Sp2020-Course-Materials/lectures/hello.ipynb).
 <br>
 
 | ------- Lectures ------- | --------------------------------- Description ---------------------------- | Dev |
@@ -11,10 +12,10 @@ Test Your JupyterHub Connection [Here](http://ds4all-jh.aucenter.edu/hub/user-re
 | [Lecture 01](https://drive.google.com/open?id=1RJy-AVEBI7gqMWzBzu5CnHb-sDNF5n6f5Pdw2El1kkM) | Introduction | |
 | [Lecture 02](https://drive.google.com/open?id=1td9AUUfTN1b3vONMbjE3NoMHhUYSilXH-Pj88-t4NvY)| Quantifying Data | |
 | [Lecture 03](https://drive.google.com/open?id=12DhdDRQTDEr1ya9v0YPZzOXWgZj0dI5iXOKSsevjyVQ) | Python & Jupyter | |
-| [Lecture 03NB01](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Course-Materials&urlpath=lab/tree/Course-Materials/lectures/basic_md_example.ipynb) | Notebook - Basic Markdown Example | [X](lectures/basic_md_example.ipynb) |
+| [Lecture 03NB01](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Sp2020-Course-Materials&urlpath=lab/tree/Sp2020-Course-Materials/lectures/basic_md_example.ipynb) | Notebook - Basic Markdown Example | [X](lectures/basic_md_example.ipynb) |
 | [Lecture 04](https://drive.google.com/open?id=1aiGy14iEP0g83Bn8nKcOfGsE0xv9zsGWFEcOx22a_CQ) | Organizing Data: Data Types & Data Structures | |
 | [Lecture 05](https://drive.google.com/open?id=1K4ETyAADZnJ2GFHG2FttqPJmqhxFyxFoQO1nYaxiqOE) | Arithmetic Expressions in Python | |
-| [Lecture 05NB01](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Course-Materials&urlpath=lab/tree/Course-Materials/lectures/math_expressions.ipynb) | Notebook - Math Expressions | [X](lectures/math_expressions.ipynb) | 
+| [Lecture 05NB01](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Sp2020-Course-Materials&urlpath=lab/tree/Sp2020-Course-Materials/lectures/math_expressions.ipynb) | Notebook - Math Expressions | [X](lectures/math_expressions.ipynb) | 
 | [Lecture 06](https://drive.google.com/open?id=1F2sNM0NbWujig4G_vRxE_kML-6HkJseKuHuEXdS36ns) | Single-Value Variables | |
 | [Lecture 07](https://drive.google.com/open?id=1j_zop9yHW4rqQi_p4JG1PXrUMYXmRqunpo6AeYTucFU) | Functions | |
 | [Lecture 08](https://drive.google.com/open?id=1MVU40MwT-pwCefAsn-nhEuxaD65ff5BB1VmH9ClMh50) | CSV Data Files | |
@@ -56,9 +57,9 @@ Test Your JupyterHub Connection [Here](http://ds4all-jh.aucenter.edu/hub/user-re
 
 | ------- Homework ------- | --------------------------------- Description ---------------------------- | Dev |
 | :---                     | :---                                                                       | :---: |
-| [Homework 01 (D0102)](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Course-Materials&urlpath=lab/tree/Course-Materials/assignments/D0102-numeric_prefixes/D0102-numeric_prefixes.ipynb) | Numeric Prefixes | [X](../../Course-Materials/assignments/D0102-numeric_prefixes/D0102-numeric_prefixes.ipynb) |
-| [Homework 0x (D0103)](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Course-Materials&urlpath=lab/tree/Course-Materials/assignments/D0103-data_types_and_structures/D0103-data_types_and_structures.ipynb) | Data Types & Data Structures | [X](../../Course-Materials/assignments/D0103-data_types_and_structures/D0103-data_types_and_structures.ipynb) |
-| [Homework 03 (D0002)](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Course-Materials&urlpath=lab/tree/Course-Materials/assignments/D0002-twelve_days_of_christmas/D0002-twelve_days_of_christmas.ipynb) | Twelve Days of Christmas | [X](../../Course-Materials/assignments/D0002-twelve_days_of_christmas/D0002-twelve_days_of_christmas.ipynb) |
+| [Homework 01 (D0102)](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Sp2020-Course-Materials&urlpath=lab/tree/Sp2020-Course-Materials/assignments/D0102-numeric_prefixes/D0102-numeric_prefixes.ipynb) | Numeric Prefixes | [X](../../Sp2020-Course-Materials/assignments/D0102-numeric_prefixes/D0102-numeric_prefixes.ipynb) |
+| [Homework 0x (D0103)](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Sp2020-Course-Materials&urlpath=lab/tree/Sp2020-Course-Materials/assignments/D0103-data_types_and_structures/D0103-data_types_and_structures.ipynb) | Data Types & Data Structures | [X](../../Sp2020-Course-Materials/assignments/D0103-data_types_and_structures/D0103-data_types_and_structures.ipynb) |
+| [Homework 03 (D0002)](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Sp2020-Course-Materials&urlpath=lab/tree/Sp2020-Course-Materials/assignments/D0002-twelve_days_of_christmas/D0002-twelve_days_of_christmas.ipynb) | Twelve Days of Christmas | [X](../../Sp2020-Course-Materials/assignments/D0002-twelve_days_of_christmas/D0002-twelve_days_of_christmas.ipynb) |
 
 <br>
 
