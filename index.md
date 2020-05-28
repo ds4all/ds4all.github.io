@@ -32,25 +32,25 @@ Homework, labs, assignments and course contents are completed in Jupyter noteboo
 <br><br>  
 </div>
 
-<div>
+<div align="center">
 <table style="border: 0px solid lightgrey;" align="center">
 <!--  Template:  copy and paste for each new calendar year
     <tr style="background:white;" align="center">
-        <td style="border: 1px solid lightgrey;"><a href="FaYYYY/course_materials.md"><font style="color:rgb(227, 125, 61);" size="3"><b><i></i></b></font></a></td>
-        <td style="border: 1px solid lightgrey;"><a href="SuYYYY/course_materials.md"><font style="color:rgb(227, 125, 61);" size="3"><b><i></i></b></font></a></td>
-        <td style="border: 1px solid lightgrey;"><a href="SpYYYY/course_materials.md"><font style="color:rgb(227, 125, 61);" size="3"><b><i>Spring YYYY</i></b></font></a></td>
+        <td style="border: 1px solid lightgrey;"><a href="FaYYYY/course_materials"><font style="color:rgb(227, 125, 61);" size="3"><b><i></i></b></font></a></td>
+        <td style="border: 1px solid lightgrey;"><a href="SuYYYY/course_materials"><font style="color:rgb(227, 125, 61);" size="3"><b><i></i></b></font></a></td>
+        <td style="border: 1px solid lightgrey;"><a href="SpYYYY/course_materials"><font style="color:rgb(227, 125, 61);" size="3"><b><i>Spring YYYY</i></b></font></a></td>
     </tr>
 -->
 <!--  Uncomment for Spring 2021
     <tr style="background:white;" align="center">
-        <td style="border: 1px solid lightgrey;"><a href="Fa2021/course_materials.md"><font style="color:rgb(227, 125, 61);" size="3"><b><i></i></b></font></a></td>
-        <td style="border: 1px solid lightgrey;"><a href="Su2021/course_materials.md"><font style="color:rgb(227, 125, 61);" size="3"><b><i></i></b></font></a></td>
-        <td style="border: 1px solid lightgrey;"><a href="Sp2021/course_materials.md"><font style="color:rgb(227, 125, 61);" size="3"><b><i>Spring 2021</i></b></font></a></td>
+        <td style="border: 1px solid lightgrey;"><a href="Fa2021/course_materials"><font style="color:rgb(227, 125, 61);" size="3"><b><i></i></b></font></a></td>
+        <td style="border: 1px solid lightgrey;"><a href="Su2021/course_materials"><font style="color:rgb(227, 125, 61);" size="3"><b><i></i></b></font></a></td>
+        <td style="border: 1px solid lightgrey;"><a href="Sp2021/course_materials"><font style="color:rgb(227, 125, 61);" size="3"><b><i>Spring 2021</i></b></font></a></td>
     </tr>
 -->
     <tr style="background:white;" align="center">
-        <td style="border: 1px solid lightgrey;"><ax href="Fa2020/course_materials.md"><font style="color:rgb(200, 200, 200);" size="3"><b><i></i></b></font></ax></td>
-        <td style="border: 1px solid lightgrey;"><a href="Su2020/course_materials.md"><font style="color:rgb(227, 125, 61);" size="3"><b><i>Summer 2020</i></b></font></a></td>
+        <td style="border: 1px solid lightgrey;"><ax href="Fa2020/course_materials"><font style="color:rgb(200, 200, 200);" size="3"><b><i></i></b></font></ax></td>
+        <td style="border: 1px solid lightgrey;"><a href="Su2020/course_materials"><font style="color:rgb(227, 125, 61);" size="3"><b><i>Summer 2020</i></b></font></a></td>
         <td style="border: 1px solid lightgrey;"><font style="color:rgb(200, 200, 200);" size="3"><b><i>Spring 2020</i></b></font></td>
     </tr>
     <tr style="background:white;" align="center">
