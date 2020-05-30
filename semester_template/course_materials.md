@@ -1,5 +1,8 @@
 <a href="http://ds4all.aucenter.edu"><img src="../images/ds4all_logo_3100x1200.png" width="120" align="right"></a>
-<p align="left" style='color:blue; font-family:"Cambria"; font-size:20pt; margin:0; line-height:1.0; padding-bottom:0; padding-top:0; text-align:left; page-break-after:avoid; font-weight:700; '>AUC <i>DS4ALL</i> Course Materials</p><br>
+<p align="left" style='color:blue; font-family:"Cambria"; font-size:20pt; margin:0; line-height:1.0; padding-bottom:0; padding-top:0; text-align:left; page-break-after:avoid; font-weight:700; '>AUC <i>DS4ALL</i> Course Materials</p>
+<p align="left" style='color:black; font-family:"Cambria"; font-size:20pt; margin:0; line-height:1.0; padding-bottom:0; padding-top:0; text-align:left; page-break-after:avoid; font-weight:700; '><i>Semester YYYY</i></p><br>
+<br>
+
 <br>
 
 Test Your JupyterHub Connection [Here](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Course-Materials&urlpath=lab/tree/Course-Materials/lectures/hello.ipynb).
@@ -7,7 +10,7 @@ Test Your JupyterHub Connection [Here](http://ds4all-jh.aucenter.edu/hub/user-re
 
 | ------- Lectures ------- | --------------------------------- Description ---------------------------- | Dev |
 | :---                     | :---                                                                       | :---: |
-| [Lecture 00](https://drive.google.com/open?id=1GiuIxHCGN11tNIm4dyHKN7hKhWjo_tdaLR2KKr33JLo) | Welcome | |
+| [Lecture 00](https://drive.google.com/open?id=13joPPmWLTAqJCo-zUI6cbn0IccWusse9g0En1ts3s94) | Welcome | |
 | [Lecture 01](https://drive.google.com/open?id=1RJy-AVEBI7gqMWzBzu5CnHb-sDNF5n6f5Pdw2El1kkM) | Introduction | |
 | [Lecture 02](https://drive.google.com/open?id=1td9AUUfTN1b3vONMbjE3NoMHhUYSilXH-Pj88-t4NvY)| Quantifying Data | |
 | [Lecture 03](https://drive.google.com/open?id=12DhdDRQTDEr1ya9v0YPZzOXWgZj0dI5iXOKSsevjyVQ) | Python & Jupyter | |
