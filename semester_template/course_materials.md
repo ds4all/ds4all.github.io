@@ -7,7 +7,7 @@ Test Your JupyterHub Connection [Here](http://ds4all-jh.aucenter.edu/hub/user-re
 
 | ------- Lectures ------- | --------------------------------- Description ---------------------------- | Dev |
 | :---                     | :---                                                                       | :---: |
-| [Lecture 00](https://drive.google.com/open?id=13joPPmWLTAqJCo-zUI6cbn0IccWusse9g0En1ts3s94) | Welcome | |
+| [Lecture 00](https://drive.google.com/open?id=1GiuIxHCGN11tNIm4dyHKN7hKhWjo_tdaLR2KKr33JLo) | Welcome | |
 | [Lecture 01](https://drive.google.com/open?id=1RJy-AVEBI7gqMWzBzu5CnHb-sDNF5n6f5Pdw2El1kkM) | Introduction | |
 | [Lecture 02](https://drive.google.com/open?id=1td9AUUfTN1b3vONMbjE3NoMHhUYSilXH-Pj88-t4NvY)| Quantifying Data | |
 | [Lecture 03](https://drive.google.com/open?id=12DhdDRQTDEr1ya9v0YPZzOXWgZj0dI5iXOKSsevjyVQ) | Python & Jupyter | |
