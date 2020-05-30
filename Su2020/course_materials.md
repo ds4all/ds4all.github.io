@@ -13,11 +13,11 @@ Test Your JupyterHub Connection [Here](http://ds4all-jh.aucenter.edu/hub/user-re
 | [Lecture 01](https://drive.google.com/open?id=1RJy-AVEBI7gqMWzBzu5CnHb-sDNF5n6f5Pdw2El1kkM) | Introduction |
 | [~~Lecture 02~~](https://drive.google.com/open?id=1td9AUUfTN1b3vONMbjE3NoMHhUYSilXH-Pj88-t4NvY)|~~Quantifying Data ~~| |
 | [Lecture 03](https://drive.google.com/open?id=12DhdDRQTDEr1ya9v0YPZzOXWgZj0dI5iXOKSsevjyVQ) | Python & Jupyter |
-|[~~Lecture 03NB01~~](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Course-Materials&urlpath=lab/tree/Course-Materials/lectures/basic_md_example.ipynb) |~~Notebook - Basic Markdown Example~~|
+|[~~Lecture 03NB01~~](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Su2020-Course-Materials&urlpath=lab/tree/Su2020-Course-Materials/lectures/basic_md_example.ipynb) |~~Notebook - Basic Markdown Example~~|
 | <big><b>Week 2</b></big> | |
 | [Lecture 04](https://drive.google.com/open?id=1aiGy14iEP0g83Bn8nKcOfGsE0xv9zsGWFEcOx22a_CQ) | Organizing Data: Data Types & Data Structures |
 | [Lecture 05](https://drive.google.com/open?id=1K4ETyAADZnJ2GFHG2FttqPJmqhxFyxFoQO1nYaxiqOE) | Arithmetic Expressions in Python |
-| [Lecture 05NB01](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Course-Materials&urlpath=lab/tree/Course-Materials/lectures/math_expressions.ipynb) | Notebook - Math Expressions |
+| [Lecture 05NB01](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Su2020-Course-Materials&urlpath=lab/tree/Su2020-Course-Materials/lectures/math_expressions.ipynb) | Notebook - Math Expressions |
 | [Lecture 06](https://drive.google.com/open?id=1F2sNM0NbWujig4G_vRxE_kML-6HkJseKuHuEXdS36ns) | Single-Value Variables |
 | [Lecture 07](https://drive.google.com/open?id=1j_zop9yHW4rqQi_p4JG1PXrUMYXmRqunpo6AeYTucFU) | Functions |
 | <big><b>Weeks 3-4</b></big> | |
@@ -65,7 +65,7 @@ Test Your JupyterHub Connection [Here](http://ds4all-jh.aucenter.edu/hub/user-re
 | ------ Assignment ------- | --------------------------------- Description ---------------------------- |
 | :---                     | :---                                                                       |
 | [Assignment 1](https://docs.google.com/document/d/1_KKBa3tQNVhQ4L-ml54RcYm7D3ZYkSlCy0SpM0chALI/edit?usp=sharing)      | Data Collection |
-| [~~Assignment 2 (D0002)~~](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Course-Materials&urlpath=lab/tree/Course-Materials/assignments/D0002-twelve_days_of_christmas/D0002-twelve_days_of_christmas.ipynb) | ~~Twelve Days of Christmas~~|
+| [~~Assignment 2 (D0002)~~](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Su2020-Course-Materials&urlpath=lab/tree/Su2020-Course-Materials/assignments/D0002-twelve_days_of_christmas/D0002-twelve_days_of_christmas.ipynb) | ~~Twelve Days of Christmas~~|
 | [Assignment 3](link)      | TBD |
 | [Assignment 4](link)      | TBD |
 
