@@ -70,8 +70,5 @@ Test Your JupyterHub Connection [Here](http://ds4all-jh.aucenter.edu/hub/user-re
 | [Assignment 4](link)      | TBD |
 
 
-
-
-
 <br><br><br>
 <span style="color:lightgray">AUCC –  Data Science for All</span>
