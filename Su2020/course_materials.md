@@ -35,26 +35,26 @@ Test Your JupyterHub Connection [Here](http://ds4all-jh.aucenter.edu/hub/user-re
 | [Lecture 18] | Creating Data Visualizations 2 |
 | <big><b>Week 6</b></big> | |
 | [Lecture 19] | Descriptive Statistics 1 |
-| [Lecture 20] | Descriptive Statistics 2 |
-| [Lecture 21] | Descriptive Statistics 3 |
+| [~~Lecture 20~~] | ~~Descriptive Statistics 2~~ |
+| [~~Lecture 21~~] | ~~Descriptive Statistics 3~~ |
 | [Lecture 22](https://drive.google.com/open?id=1nS2AJwK0fsWIxepcz6vWoZWJiIY-fvRKVKu5qQdJk9E) | Interpreting Statistical Information 1 |
-| [Lecture 23] | Interpreting Statistical Information 2 |
-| [Lecture 24] | Interpreting Statistical Information 3 |
+| [~~Lecture 23~~] | ~~Interpreting Statistical Information 2~~ |
+| [~~Lecture 24~~] | ~~Interpreting Statistical Information 3~~ |
 | [Lecture 25](https://drive.google.com/open?id=17kvy8m-8NBdyKQJClUqwndJc2yE8qpG8sex_rkMZCSA) | Math Operations on Arrays |
-| [Lecture 26] | Histograms (?) |
+| [~~Lecture 26~~] | ~~Histograms~~ |
 | [Lecture 27] | Association, Causation & Confounding Factor |
 | [Lecture 28](https://drive.google.com/open?id=1i8JXKwwTYe9YVHbJrYToQwZrINcqhU7m_DgRrnw-GLs) | Case Study: John Snow and the Broad Stree Pump |
 | [Lecture 29](https://drive.google.com/open?id=1yp8tSBwXrzorp3i6yILP7ZIwC8tr69xcflvd4SP9vdk) | Samples & Populations |
-| [Lecture 30](https://drive.google.com/open?id=1-mqjtjzkhmYnSG6fQljTyIWAZUzw1r15IHf93-L2pas) | Statistical Studies |
+| [~~Lecture 30~~](https://drive.google.com/open?id=1-mqjtjzkhmYnSG6fQljTyIWAZUzw1r15IHf93-L2pas) | ~~Statistical Studies~~ |
 | [Lecture 31](https://drive.google.com/open?id=1HPTFVjPaQR7_B670PNIw9Wgwpj8_W0416Bwy8b4Xx9A) | Ethics and Malpractice in Statistical Studies |
-| [Lecture 32](https://drive.google.com/open?id=1QAgP3-oikSMaMq7WxHjuHndeYGBI8WJ0zXReF7C6jgM) | Introduction to Spreadsheets |
-| [Lecture 33] | Introduction to Spreadsheets |
-| [Lecture 34] | Introduction to Spreadsheets |
-| [Lecture 35] | Working with Spreadsheets |
-| [Lecture 36] | Working with Spreadsheets |
-| [Lecture 37] | Working with Spreadsheets |
-| [Lecture 38] | Graphing with spreadsheets |
-| [Lecture 39] | Graphing with spreadsheets |
+| [~~Lecture 32~~](https://drive.google.com/open?id=1QAgP3-oikSMaMq7WxHjuHndeYGBI8WJ0zXReF7C6jgM) | ~~Introduction to Spreadsheets~~ |
+| [~~Lecture 33~~] | ~~Introduction to Spreadsheets~~ |
+| [~~Lecture 34~~] | ~~Introduction to Spreadsheets~~ |
+| [~~Lecture 35~~] | ~~Working with Spreadsheets~~ |
+| [~~Lecture 36~~] | ~~Working with Spreadsheets~~ |
+| [~~Lecture 37~~] | ~~Working with Spreadsheets~~ |
+| [~~Lecture 38~~] | ~~Graphing with spreadsheets~~ |
+| [~~Lecture 39~~] | ~~Graphing with spreadsheets~~ |
 
 
 
