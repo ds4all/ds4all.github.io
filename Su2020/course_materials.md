@@ -64,9 +64,9 @@ Test Your JupyterHub Connection [Here](http://ds4all-jh.aucenter.edu/hub/user-re
 
 | ------ Assignment ------- | --------------------------------- Description ---------------------------- |
 | :---                     | :---                                                                       |
-| [Assignment 1](https://docs.google.com/document/d/1_KKBa3tQNVhQ4L-ml54RcYm7D3ZYkSlCy0SpM0chALI/edit?usp=sharing)      | Data Collection |
+| [Assignment 1](https://docs.google.com/document/d/1_KKBa3tQNVhQ4L-ml54RcYm7D3ZYkSlCy0SpM0chALI/edit?usp=sharing)      | D0010 - Data Collection |
 | [~~Assignment 2 (D0002)~~](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Su2020-Course-Materials&urlpath=lab/tree/Su2020-Course-Materials/assignments/D0002-twelve_days_of_christmas/D0002-twelve_days_of_christmas.ipynb) | ~~Twelve Days of Christmas~~|
-| [Assignment 3](link)      | TBD |
+| [Assignment 3](https://docs.google.com/document/d/19BEX--fvJ7JhbOkN4-hUv4a05E24FRnX_InS27T8uAQ/edit?usp=sharing)| D0103.01 - Data Types & Data Structures 1 |
 | [Assignment 4](link)      | TBD |
 
 

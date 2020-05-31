@@ -63,7 +63,7 @@ Homework, labs, assignments and course contents are completed in Jupyter noteboo
 <br>
 The course Q&A page is hosted on Piazza.<br><br>
 <div align="center">
-    <a href="piazza.com/aucenter/summer2020/ds4all/home"><img src="images/piazza_logo_1280x330.png" width="120" align="center"><big>&nbsp;&nbsp;Summer 2020</big></a>
+    <a href="https://piazza.com/aucenter/summer2020/ds4all/home"><img src="images/piazza_logo_1280x330.png" width="120" align="center"><big>&nbsp;&nbsp;Summer 2020</big></a>
 </div>
 
 <br>
