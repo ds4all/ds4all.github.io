@@ -3,7 +3,7 @@
 <p align="left" style='color:black; font-family:"Cambria"; font-size:20pt; margin:0; line-height:1.0; padding-bottom:0; padding-top:0; text-align:left; page-break-after:avoid; font-weight:700; '><i>Summer 2020</i></p><br>
 <br>
 
-Test Your JupyterHub Connection [Here](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Su2020-Course-Materials&urlpath=lab/tree/Su2020-Course-Materials/lectures/hello.ipynb).
+Login [Here](http://ds4all-jh.aucenter.edu).  Then, test Your JupyterHub Connection [Here](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Su2020-Course-Materials&urlpath=lab/tree/Su2020-Course-Materials/lectures/hello.ipynb).
 <br>
 
 | ------- Week ------- | --------------------------------- Topic ---------------------------- |
