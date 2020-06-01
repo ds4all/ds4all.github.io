@@ -11,7 +11,7 @@ Login [Here](http://ds4all-jh.aucenter.edu).  Then, test Your JupyterHub Connect
 | <big><b>Week 1</b></big> | |
 | [Lecture 00](https://drive.google.com/open?id=1GiuIxHCGN11tNIm4dyHKN7hKhWjo_tdaLR2KKr33JLo) | Welcome |
 | [Lecture 01](https://drive.google.com/open?id=1RJy-AVEBI7gqMWzBzu5CnHb-sDNF5n6f5Pdw2El1kkM) | Introduction |
-| [~~Lecture 02~~](https://drive.google.com/open?id=1td9AUUfTN1b3vONMbjE3NoMHhUYSilXH-Pj88-t4NvY)|~~Quantifying Data ~~| |
+| [~~Lecture 02~~](https://drive.google.com/open?id=1td9AUUfTN1b3vONMbjE3NoMHhUYSilXH-Pj88-t4NvY)|~~Quantifying Data~~| |
 | [Lecture 03](https://drive.google.com/open?id=12DhdDRQTDEr1ya9v0YPZzOXWgZj0dI5iXOKSsevjyVQ) | Python & Jupyter |
 |[~~Lecture 03NB01~~](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Su2020-Course-Materials&urlpath=lab/tree/Su2020-Course-Materials/lectures/basic_md_example.ipynb) |~~Notebook - Basic Markdown Example~~|
 | <big><b>Week 2</b></big> | |
