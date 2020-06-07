@@ -50,7 +50,7 @@ Homework, labs, assignments and course contents are completed in Jupyter noteboo
 -->
     <tr style="background:white;" align="center">
         <td style="border: 1px solid lightgrey;"><ax href="Fa2020/course_materials"><font style="color:rgb(200, 200, 200);" size="3"><b><i></i></b></font></ax></td>
-        <td style="border: 1px solid lightgrey;"><a href="Su2020/course_materials"><font style="color:rgb(227, 125, 61);" size="3"><b><i>Summer 2020</i></b></font></a></td>
+        <td style="border: 1px solid lightgrey;"><a href="course_materials"><font style="color:rgb(227, 125, 61);" size="3"><b><i>Summer 2020</i></b></font></a></td>
         <td style="border: 1px solid lightgrey;"><font style="color:rgb(200, 200, 200);" size="3"><b><i>Spring 2020</i></b></font></td>
     </tr>
     <tr style="background:white;" align="center">
