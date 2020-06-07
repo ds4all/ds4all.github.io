@@ -1,8 +1,12 @@
 <a href="http://ds4all.aucenter.edu"><img src="../images/ds4all_logo_3100x1200.png" width="120" align="right"></a>
 <p align="left" style='color:blue; font-family:"Cambria"; font-size:20pt; margin:0; line-height:1.0; padding-bottom:0; padding-top:0; text-align:left; page-break-after:avoid; font-weight:700; '>AUC <i>DS4ALL</i> Course Materials</p>
-<p align="left" style='color:black; font-family:"Cambria"; font-size:20pt; margin:0; line-height:1.0; padding-bottom:0; padding-top:0; text-align:left; page-break-after:avoid; font-weight:700; '><i>Current Semester</i></p><br>
+<p align="left" style='color:black; font-family:"Cambria"; font-size:20pt; margin:0; line-height:1.0; padding-bottom:0; padding-top:0; text-align:left; page-break-after:avoid; font-weight:700; '><i>Current Semester</i>
+    <br><br>
+This page is no longer in use for the Summer of 2020.<br>
+Please refer to the <a href="https://spelelearn.spelman.edu/course/view.php?id=26011">course Moodle page</a> .</p><br>
 <br>
 
+<!--
 Login [Here](http://ds4all-jh.aucenter.edu).  Then, test Your JupyterHub Connection [Here](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Current-Course-Materials&urlpath=lab/tree/Current-Course-Materials/lectures/hello.ipynb).
 <br>
 
@@ -66,11 +70,11 @@ Login [Here](http://ds4all-jh.aucenter.edu).  Then, test Your JupyterHub Connect
 | :---                     | :---                                                                       |
 | [Assignment 1](https://docs.google.com/document/d/1_KKBa3tQNVhQ4L-ml54RcYm7D3ZYkSlCy0SpM0chALI/edit?usp=sharing)      | D0010 - Data Collection |
 | [~~Assignment 2 (D0002)~~](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Current-Course-Materials&urlpath=lab/tree/Current-Course-Materials/assignments/D0002-twelve_days_of_christmas/D0002-twelve_days_of_christmas.ipynb) | ~~Twelve Days of Christmas~~|
-| [Assignment 3](https://docs.google.com/document/d/19BEX--fvJ7JhbOkN4-hUv4a05E24FRnX_InS27T8uAQ/edit?usp=sharing)| D0103.01 - Data Types & Data Structures 1 |
+| [Assignment 3](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Current-Course-Materials&urlpath=lab/tree/Current-Course-Materials/assignments/D0103.01-data_types_and_structures_1/D0103.01-data_types_and_structures_1.ipynb)| D0103.01 - Data Types & Data Structures 1 |
 | [Assignment 4](http://ds4all-jh.aucenter.edu/hub/user-redirect/git-pull?repo=https://github.com/ds4all/Current-Course-Materials&urlpath=lab/tree/Current-Course-Materials/assignments/D0101.01-math_expressions_1/D0101.01-math_expressions_1.ipynb)      | TBD |
 | [Assignment 4](link)      | TBD |
 
-
+-->
 
 <br><br><br>
 <span style="color:lightgray">AUCC –  Data Science for All</span>
