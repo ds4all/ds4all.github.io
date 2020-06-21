@@ -1,12 +1,9 @@
-Institution,State,Type,2017 Enrollment,2018 Enrollment,2018 Black enrollment,2018 Full-time-equivalent Enrollment,Associate's,Bachelor's,Master's,Doctor's,Expenditures ($K)
-Alabama A&M University ,AL,1,6001,6106,5701,5726,0,507,332,8,148803
+Institution,State,Type,2017 Enrollment,2018 Enrollment,2018 Black enrollment,2018 Full-time-equivalent Enrollment,2018 Associates,2018 Bachelors,2018 Masters,2018 Doctors,Expenditures ($K)Alabama A&M University ,AL,1,6001,6106,5701,5726,0,507,332,8,148803
 Alabama State University ,AL,1,4760,4413,4067,4118,0,650,144,32,148377
 Bishop State Community College ,AL,2,3233,2860,1796,1907,275,0,0,0,32081
 Gadsden State Community College ,AL,2,4979,4736,850,3117,642,0,0,0,50921
-"H. Councill Trenholm State Technical
-   College ",AL,2,1845,1855,1267,1181,178,0,0,0,21972
-"J. F. Drake State Community and Technical
-   College ",AL,2,752,831,432,486,64,0,0,0,10863
+H. Councill Trenholm State Technical College,AL,2,1845,1855,1267,1181,178,0,0,0,21972
+J. F. Drake State Community and Technical College,AL,2,752,831,432,486,64,0,0,0,10863
 Lawson State Community College ,AL,2,3248,3274,2653,2192,316,0,0,0,50318
 Miles College ,AL,3,1650,1550,1470,1501,0,295,0,0,30916
 Oakwood University ,AL,3,1711,1636,1391,1555,4,306,5,0,54786
